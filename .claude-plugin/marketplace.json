@@ -1,0 +1,5 @@
+{
+  "name": "interlinked-mods",
+  "owner": { "name": "Robertas Suminskas" },
+  "plugins": [{ "name": "usage-hud", "source": "./" }]
+}

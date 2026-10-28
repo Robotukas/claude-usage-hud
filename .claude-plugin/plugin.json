@@ -1,0 +1,1 @@
+{ "name": "usage-hud", "version": "0.9.0", "description": "Always-on band above the prompt with the phase bar, running workflows and agents, and usage; each row opens a side pane at that section.", "author": { "name": "Robertas Suminskas" }, "types": "./types/index.d.ts" }
