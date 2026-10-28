@@ -18,7 +18,7 @@ It costs no tokens: it never calls a model, and nothing it draws enters the conv
 At the prompt of a terminal session:
 
 ```
-/plugin install usage-hud --marketplace Robotukas/usage-hud
+/plugin install usage-hud --marketplace Robotukas/claude-usage-hud
 ```
 
 Answer `y` to add the marketplace, then choose a scope (the user scope loads it in every session).
